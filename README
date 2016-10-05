@@ -1,0 +1,6 @@
+
+Built an OpenCL vector rendering engine that which directly draws on graphics memory without involving substantial memory transfer between CPU and GPU.
+
+Built an interface using Qt such that the user is able to draw on real-time camera shootings through the rendering engine.
+
+Original Repository: https://github.com/oocast/oclRender
